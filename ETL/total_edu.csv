@@ -1,0 +1,174 @@
+,SA2 Code,SA2 Name,Education Level,Age Group,2006,2011,2016
+0,502011021,Dawesville - Bouvard,Total,Total,1768.0,2218.0,3309.0
+1,502011022,Falcon - Wannanup,Total,Total,2465.0,3206.0,4187.0
+2,502011023,Greenfields,Total,Total,3243.0,3599.0,3985.0
+3,502011024,Halls Head - Erskine,Total,Total,5706.0,7418.0,8534.0
+4,502011025,Mandurah,Total,Total,3171.0,3733.0,4353.0
+5,502011026,Mandurah - East,Total,Total,1973.0,2074.0,2534.0
+6,502011027,Mandurah - North,Total,Total,2751.0,5334.0,8030.0
+7,502011028,Mandurah - South,Total,Total,3154.0,3809.0,4524.0
+8,502011029,Pinjarra,Total,Total,1817.0,2838.0,3946.0
+9,503011030,City Beach,Total,Total,3208.0,3438.0,3718.0
+10,503011031,Claremont (WA),Total,Total,4051.0,4501.0,5127.0
+11,503011032,Cottesloe,Total,Total,4200.0,4530.0,4685.0
+12,503011033,Floreat,Total,Total,3521.0,3767.0,4380.0
+13,503011034,Mosman Park - Peppermint Grove,Total,Total,5231.0,5612.0,6113.0
+14,503011035,Nedlands - Dalkeith - Crawley,Total,Total,9695.0,9828.0,10967.0
+15,503011036,Swanbourne - Mount Claremont,Total,Total,3923.0,4250.0,4914.0
+16,503021037,Kings Park (WA),Total,Total,3.0,22.0,10.0
+17,503021038,Mount Hawthorn - Leederville,Total,Total,5107.0,5834.0,6315.0
+18,503021039,Mount Lawley - Inglewood,Total,Total,8229.0,9175.0,10036.0
+19,503021040,North Perth,Total,Total,4076.0,4752.0,5195.0
+20,503021041,Perth City,Total,Total,12386.0,17848.0,22665.0
+21,503021042,Subiaco - Shenton Park,Total,Total,8530.0,9428.0,10638.0
+22,503021043,Wembley - West Leederville - Glendalough,Total,Total,8789.0,9872.0,11004.0
+23,504011044,Bassendean - Eden Hill - Ashfield,Total,Total,5736.0,6546.0,7548.0
+24,504011045,Bayswater - Embleton - Bedford,Total,Total,8707.0,10531.0,12342.0
+25,504011046,Maylands,Total,Total,5940.0,7383.0,7991.0
+26,504011047,Morley,Total,Total,7305.0,8780.0,10381.0
+27,504011048,Noranda,Total,Total,3373.0,3538.0,3794.0
+28,504021049,Chidlow,Total,Total,2003.0,2529.0,3269.0
+29,504021050,Glen Forrest - Darlington,Total,Total,3450.0,3687.0,3876.0
+30,504021051,Helena Valley - Koongamia,Total,Total,1584.0,2023.0,2540.0
+31,504021052,Malmalling - Reservoir,Total,Total,0.0,10.0,8.0
+32,504021053,Mundaring,Total,Total,5128.0,5834.0,6450.0
+33,504021054,Swan View - Greenmount - Midvale,Total,Total,4600.0,4952.0,5425.0
+34,504031055,Avon Valley National Park,Total,Total,0.0,0.0,3.0
+35,504031056,Ballajura,Total,Total,6630.0,7031.0,7459.0
+36,504031057,Beechboro,Total,Total,5048.0,5879.0,7795.0
+37,504031058,Bullsbrook,Total,Total,1448.0,1670.0,2408.0
+38,504031059,Ellenbrook,Total,Total,4811.0,8917.0,15733.0
+39,504031060,Gidgegannup,Total,Total,1004.0,1182.0,1396.0
+40,504031061,Hazelmere - Guildford,Total,Total,1304.0,1579.0,2024.0
+41,504031062,Lockridge - Kiara,Total,Total,2780.0,3048.0,4830.0
+42,504031063,Malaga,Total,Total,18.0,6.0,3.0
+43,504031064,Melaleuca - Lexia,Total,Total,0.0,0.0,0.0
+44,504031065,Middle Swan - Herne Hill,Total,Total,1803.0,2165.0,2369.0
+45,504031066,Midland - Guildford,Total,Total,3520.0,4532.0,5346.0
+46,504031067,Stratton - Jane Brook,Total,Total,2195.0,2431.0,2765.0
+47,504031068,The Vines,Total,Total,1771.0,2373.0,4671.0
+48,504031069,Walyunga National Park,Total,Total,0.0,0.0,0.0
+49,505011070,Craigie - Beldon,Total,Total,4108.0,4387.0,4851.0
+50,505011071,Currambine - Kinross,Total,Total,5518.0,5937.0,6600.0
+51,505011072,Duncraig,Total,Total,7307.0,7530.0,8031.0
+52,505011073,Greenwood - Warwick,Total,Total,5876.0,6354.0,6763.0
+53,505011074,Heathridge - Connolly,Total,Total,4463.0,4795.0,5219.0
+54,505011075,Hillarys,Total,Total,4706.0,5256.0,5621.0
+55,505011076,Iluka - Burns Beach,Total,Total,1721.0,2755.0,4327.0
+56,505011077,Joondalup - Edgewater,Total,Total,5853.0,6674.0,7291.0
+57,505011078,Kingsley,Total,Total,5641.0,6164.0,6559.0
+58,505011079,Mullaloo - Kallaroo,Total,Total,5259.0,5388.0,5852.0
+59,505011080,Ocean Reef,Total,Total,3572.0,3817.0,4023.0
+60,505011081,Padbury,Total,Total,3602.0,3997.0,4167.0
+61,505011082,Sorrento - Marmion,Total,Total,4558.0,4950.0,5277.0
+62,505011083,Woodvale,Total,Total,3985.0,4066.0,4562.0
+63,505021084,Balcatta - Hamersley,Total,Total,6104.0,6918.0,7692.0
+64,505021085,Balga - Mirrabooka,Total,Total,5192.0,6466.0,8068.0
+65,505021086,Dianella,Total,Total,9665.0,10720.0,11877.0
+66,505021087,Herdsman,Total,Total,0.0,0.0,0.0
+67,505021088,Innaloo - Doubleview,Total,Total,6941.0,8258.0,9760.0
+68,505021089,Karrinyup - Gwelup - Carine,Total,Total,8551.0,9582.0,10676.0
+69,505021090,Nollamara - Westminster,Total,Total,4711.0,6994.0,9272.0
+70,505021091,Osborne Park Industrial,Total,Total,0.0,0.0,7.0
+71,505021092,Scarborough,Total,Total,7366.0,8768.0,9748.0
+72,505021093,Stirling - Osborne Park,Total,Total,4466.0,6526.0,7228.0
+73,505021094,Trigg - North Beach - Watermans Bay,Total,Total,3537.0,3697.0,4212.0
+74,505021095,Tuart Hill - Joondanna,Total,Total,5120.0,6164.0,7009.0
+75,505021096,Wembley Downs - Churchlands - Woodlands,Total,Total,6139.0,6627.0,7758.0
+76,505021097,Yokine - Coolbinia - Menora,Total,Total,6876.0,7835.0,8848.0
+77,505031098,Alexander Heights - Koondoola,Total,Total,4001.0,4071.0,4458.0
+78,505031099,Butler - Merriwa - Ridgewood,Total,Total,4106.0,7598.0,9955.0
+79,505031100,Carramar,Total,Total,2558.0,4571.0,7463.0
+80,505031101,Clarkson,Total,Total,2425.0,4889.0,6072.0
+81,505031102,Girrawheen,Total,Total,2582.0,2877.0,3246.0
+82,505031103,Madeley - Darch - Landsdale,Total,Total,4370.0,7679.0,11298.0
+83,505031104,Marangaroo,Total,Total,3390.0,3756.0,4170.0
+84,505031105,Mindarie - Quinns Rocks - Jindalee,Total,Total,5927.0,7401.0,8968.0
+85,505031106,Neerabup National Park,Total,Total,0.0,0.0,4.0
+86,505031107,Tapping - Ashby - Sinagra,Total,Total,2380.0,5287.0,6007.0
+87,505031108,Wanneroo,Total,Total,7052.0,9662.0,11782.0
+88,505031255,Alkimos - Eglinton,Total,Total,0.0,37.0,4018.0
+89,505031256,Carabooda - Pinjar,Total,Total,275.0,302.0,341.0
+90,505031257,Two Rocks,Total,Total,715.0,877.0,1396.0
+91,505031258,Yanchep,Total,Total,1028.0,1975.0,4090.0
+92,506011110,Armadale - Wungong - Brookdale,Total,Total,4907.0,5889.0,7837.0
+93,506011111,Ashendon - Lesley,Total,Total,0.0,0.0,3.0
+94,506011112,Camillo - Champion Lakes,Total,Total,1690.0,1889.0,2273.0
+95,506011113,Forrestdale - Harrisdale - Piara Waters,Total,Total,514.0,3464.0,9585.0
+96,506011114,Kelmscott,Total,Total,3629.0,4252.0,4801.0
+97,506011115,Mount Nasura - Mount Richon - Bedfordale,Total,Total,3160.0,3384.0,3881.0
+98,506011116,Roleystone,Total,Total,2867.0,3226.0,3599.0
+99,506011117,Seville Grove,Total,Total,2090.0,3368.0,4095.0
+100,506021118,Belmont - Ascot - Redcliffe,Total,Total,4869.0,6315.0,7318.0
+101,506021119,East Victoria Park - Carlisle,Total,Total,6617.0,8056.0,9583.0
+102,506021120,Kewdale Commercial,Total,Total,0.0,0.0,0.0
+103,506021121,Perth Airport,Total,Total,15.0,53.0,28.0
+104,506021122,Rivervale - Kewdale - Cloverdale,Total,Total,7853.0,10191.0,13171.0
+105,506021123,Victoria Park - Lathlain - Burswood,Total,Total,6206.0,8034.0,8820.0
+106,506031124,Bentley - Wilson - St James,Total,Total,8477.0,10258.0,11122.0
+107,506031125,Canning Vale - West,Total,Total,3674.0,4337.0,4818.0
+108,506031126,Canning Vale Commercial,Total,Total,0.0,0.0,0.0
+109,506031127,Cannington - Queens Park,Total,Total,4770.0,7304.0,9265.0
+110,506031128,Parkwood - Ferndale - Lynwood,Total,Total,5670.0,6175.0,6819.0
+111,506031129,Riverton - Shelley - Rossmoyne,Total,Total,5869.0,6718.0,7184.0
+112,506031130,Welshpool,Total,Total,4.0,12.0,15.0
+113,506031131,Willetton,Total,Total,7769.0,8451.0,9084.0
+114,506041132,Beckenham - Kenwick - Langford,Total,Total,5941.0,7053.0,8244.0
+115,506041133,Canning Vale - East,Total,Total,5850.0,9449.0,11281.0
+116,506041134,Gosnells,Total,Total,6082.0,7556.0,8328.0
+117,506041135,Huntingdale - Southern River,Total,Total,3947.0,5707.0,8246.0
+118,506041136,Maddington - Orange Grove - Martin,Total,Total,3900.0,4642.0,5693.0
+119,506041137,Thornlie,Total,Total,8398.0,9350.0,10197.0
+120,506051138,Forrestfield - Wattle Grove,Total,Total,5164.0,6338.0,8297.0
+121,506051139,High Wycombe,Total,Total,3683.0,4622.0,5299.0
+122,506051140,Kalamunda - Maida Vale - Gooseberry Hill,Total,Total,6775.0,7133.0,7749.0
+123,506051141,Lesmurdie - Bickley - Carmel,Total,Total,5095.0,5284.0,5719.0
+124,506061142,Byford,Total,Total,1597.0,3162.0,6915.0
+125,506061143,Mundijong,Total,Total,1770.0,2207.0,2736.0
+126,506061144,Serpentine - Jarrahdale,Total,Total,1545.0,1778.0,2286.0
+127,506071145,Como,Total,Total,6754.0,7754.0,8640.0
+128,506071146,Manning - Waterford,Total,Total,5047.0,5461.0,6100.0
+129,506071147,South Perth - Kensington,Total,Total,8917.0,9697.0,10156.0
+130,507011148,Banjup,Total,Total,3370.0,6222.0,8272.0
+131,507011150,Bibra Industrial,Total,Total,6.0,8.0,5.0
+132,507011151,Bibra Lake,Total,Total,0.0,0.0,0.0
+133,507011152,Coogee,Total,Total,2769.0,3242.0,4147.0
+134,507011153,Coolbellup,Total,Total,2983.0,3463.0,3995.0
+135,507011154,Hamilton Hill,Total,Total,3731.0,4510.0,5351.0
+136,507011155,Henderson,Total,Total,5.0,3.0,8.0
+137,507011158,North Coogee,Total,Total,0.0,319.0,1483.0
+138,507011159,South Lake - Cockburn Central,Total,Total,4266.0,4756.0,5602.0
+139,507011160,Spearwood,Total,Total,3543.0,3772.0,4820.0
+140,507011161,Success - Hammond Park,Total,Total,2498.0,5096.0,7341.0
+141,507011163,Yangebup,Total,Total,2334.0,2981.0,3462.0
+142,507011259,Beeliar - Wattleup,Total,Total,1934.0,2641.0,3845.0
+143,507011260,Jandakot,Total,Total,1352.0,1275.0,1323.0
+144,507021164,East Fremantle,Total,Total,3533.0,3821.0,4362.0
+145,507021165,Fremantle,Total,Total,7171.0,7863.0,9403.0
+146,507021166,Fremantle - South,Total,Total,5838.0,6756.0,7894.0
+147,507021167,O'Connor (WA),Total,Total,3.0,0.0,12.0
+148,507031169,Bertram - Wellard (West),Total,Total,1345.0,3258.0,6530.0
+149,507031170,Calista,Total,Total,2244.0,2775.0,3165.0
+150,507031172,Hope Valley - Postans,Total,Total,92.0,35.0,31.0
+151,507031173,Kwinana Industrial,Total,Total,60.0,4.0,15.0
+152,507031174,Parmelia - Orelia,Total,Total,3366.0,3896.0,4463.0
+153,507031261,Casuarina - Wandi,Total,Total,1540.0,1646.0,3590.0
+154,507041175,Applecross - Ardross,Total,Total,5354.0,5970.0,6514.0
+155,507041176,Bateman,Total,Total,1709.0,1950.0,2066.0
+156,507041177,Bicton - Palmyra,Total,Total,6112.0,6901.0,7674.0
+157,507041178,Booragoon,Total,Total,6924.0,7572.0,8235.0
+158,507041179,Bull Creek,Total,Total,3813.0,3949.0,4265.0
+159,507041180,Leeming,Total,Total,5133.0,5446.0,5666.0
+160,507041181,Melville,Total,Total,7149.0,7834.0,8691.0
+161,507041182,Murdoch - Kardinya,Total,Total,5394.0,5877.0,6745.0
+162,507041183,Willagee,Total,Total,1838.0,2099.0,2333.0
+163,507041184,Winthrop,Total,Total,3061.0,3154.0,3212.0
+164,507051185,Baldivis,Total,Total,2614.0,6897.0,14928.0
+165,507051186,Cooloongup,Total,Total,3032.0,3300.0,3547.0
+166,507051187,Port Kennedy,Total,Total,4515.0,5408.0,5862.0
+167,507051188,Rockingham,Total,Total,5536.0,6508.0,7595.0
+168,507051189,Rockingham Lakes,Total,Total,0.0,11.0,5.0
+169,507051190,Safety Bay - Shoalwater,Total,Total,4420.0,5130.0,5633.0
+170,507051191,Singleton - Golden Bay - Secret Harbour,Total,Total,3916.0,6279.0,8682.0
+171,507051192,Waikiki,Total,Total,4217.0,4784.0,5460.0
+172,507051193,Warnbro,Total,Total,4111.0,4323.0,4643.0

@@ -1,0 +1,174 @@
+,SA2 Name,Rent 2006,Rent 2011,Rent 2016
+0,Dawesville - Bouvard,$174,$324,$374
+1,Falcon - Wannanup,$174,$324,$374
+2,Greenfields,$174,$274,$324
+3,Halls Head - Erskine,$199,$324,$374
+4,Mandurah,$174,$274,$324
+5,Mandurah - East,$174,$324,$374
+6,Mandurah - North,$224,$374,$424
+7,Mandurah - South,$174,$274,$324
+8,Pinjarra,$124,$224,$374
+9,City Beach,$549,,
+10,Claremont (WA),$224,$549,$549
+11,Cottesloe,$324,$549,$549
+12,Floreat,$224,$549,$649
+13,Mosman Park - Peppermint Grove,$124,$274,$324
+14,Nedlands - Dalkeith - Crawley,$174,$549,$549
+15,Swanbourne - Mount Claremont,$74,,
+16,Kings Park (WA),$74,,
+17,Mount Hawthorn - Leederville,$224,$549,$549
+18,Mount Lawley - Inglewood,$174,$324,$549
+19,North Perth,$274,$549,$549
+20,Perth City,$274,$549,$549
+21,Subiaco - Shenton Park,$224,$549,$549
+22,Wembley - West Leederville - Glendalough,$149,$324,$324
+23,Bassendean - Eden Hill - Ashfield,$174,$324,$374
+24,Bayswater - Embleton - Bedford,$174,$324,$549
+25,Maylands,$174,$324,$324
+26,Morley,$224,$324,$549
+27,Noranda,$174,$324,$549
+28,Chidlow,$199,$324,$549
+29,Glen Forrest - Darlington,$174,$549,$549
+30,Helena Valley - Koongamia,$74,$324,$549
+31,Malmalling - Reservoir,$74,$74,$74
+32,Mundaring,$174,$374,$549
+33,Swan View - Greenmount - Midvale,$174,$324,$374
+34,Avon Valley National Park,$74,$74,$74
+35,Ballajura,$224,$374,$424
+36,Beechboro,$174,$374,$374
+37,Bullsbrook,$174,$374,$324
+38,Ellenbrook,$274,$374,$549
+39,Gidgegannup,$174,$224,$549
+40,Hazelmere - Guildford,$224,$374,$424
+41,Lockridge - Kiara,$174,$324,$374
+42,Malaga,$74,$74,$74
+43,Melaleuca - Lexia,$74,$74,$74
+44,Middle Swan - Herne Hill,$174,$324,$374
+45,Midland - Guildford,$174,$324,$374
+46,Stratton - Jane Brook,$199,$374,$374
+47,The Vines,$224,$549,$549
+48,Walyunga National Park,$74,$74,$74
+49,Craigie - Beldon,$199,$374,$374
+50,Currambine - Kinross,$274,$424,$549
+51,Duncraig,$224,$549,$549
+52,Greenwood - Warwick,$224,$374,$549
+53,Heathridge - Connolly,$224,$374,$424
+54,Hillarys,$224,$549,$549
+55,Iluka - Burns Beach,$424,$749,$749
+56,Joondalup - Edgewater,$224,$374,$549
+57,Kingsley,$224,$549,$549
+58,Mullaloo - Kallaroo,$274,$549,$549
+59,Ocean Reef,$274,$549,$549
+60,Padbury,$224,$374,$549
+61,Sorrento - Marmion,$224,$549,$549
+62,Woodvale,$274,$549,$549
+63,Balcatta - Hamersley,$224,$374,$374
+64,Balga - Mirrabooka,$174,$324,$374
+65,Dianella,$174,$324,$549
+66,Herdsman,$74,$74,$74
+67,Innaloo - Doubleview,$74,$549,$549
+68,Karrinyup - Gwelup - Carine,$224,$549,$549
+69,Nollamara - Westminster,$174,$374,$374
+70,Osborne Park Industrial,$74,$74,$74
+71,Scarborough,$224,$324,$549
+72,Stirling - Osborne Park,$174,$324,$324
+73,Trigg - North Beach - Watermans Bay,$224,$324,$549
+74,Tuart Hill - Joondanna,$174,$324,$324
+75,Wembley Downs - Churchlands - Woodlands,$199,$324,$549
+76,Yokine - Coolbinia - Menora,$174,$324,$549
+77,Alexander Heights - Koondoola,$199,$324,$374
+78,Butler - Merriwa - Ridgewood,$274,$374,$374
+79,Carramar,$274,$424,$549
+80,Clarkson,$224,$374,$424
+81,Girrawheen,$174,$324,$324
+82,Madeley - Darch - Landsdale,$274,$549,$549
+83,Marangaroo,$199,$374,$424
+84,Mindarie - Quinns Rocks - Jindalee,$224,$549,$549
+85,Neerabup National Park,$74,$74,$549
+86,Tapping - Ashby - Sinagra,$299,$424,$549
+87,Wanneroo,$174,$374,$549
+88,Alkimos - Eglinton,$74,$74,$374
+89,Carabooda - Pinjar,$174,$324,$274
+90,Two Rocks,$174,$274,$324
+91,Yanchep,$174,$324,$374
+92,Armadale - Wungong - Brookdale,$174,$324,$324
+93,Ashendon - Lesley,$74,$74,$74
+94,Camillo - Champion Lakes,$174,$324,$324
+95,Forrestdale - Harrisdale - Piara Waters,$174,$549,$549
+96,Kelmscott,$174,$324,$324
+97,Mount Nasura - Mount Richon - Bedfordale,$174,$374,$374
+98,Roleystone,$174,$549,$549
+99,Seville Grove,$199,$324,$374
+100,Belmont - Ascot - Redcliffe,$174,$374,$549
+101,East Victoria Park - Carlisle,$174,$324,$549
+102,Kewdale Commercial,$74,$74,$74
+103,Perth Airport,$74,$74,$74
+104,Rivervale - Kewdale - Cloverdale,$174,$324,$549
+105,Victoria Park - Lathlain - Burswood,$174,$324,$549
+106,Bentley - Wilson - St James,$74,$99,$549
+107,Canning Vale - West,$274,$549,$549
+108,Canning Vale Commercial,$74,$74,$74
+109,Cannington - Queens Park,$199,$374,$374
+110,Parkwood - Ferndale - Lynwood,$174,$374,$374
+111,Riverton - Shelley - Rossmoyne,$224,$374,$549
+112,Welshpool,$74,$74,$74
+113,Willetton,$224,$374,$549
+114,Beckenham - Kenwick - Langford,$174,$324,$324
+115,Canning Vale - East,$324,$549,$549
+116,Gosnells,$174,$324,$324
+117,Huntingdale - Southern River,$199,$374,$549
+118,Maddington - Orange Grove - Martin,$174,$324,$374
+119,Thornlie,$224,$324,$374
+120,Forrestfield - Wattle Grove,$199,$374,$549
+121,High Wycombe,$199,$374,$549
+122,Kalamunda - Maida Vale - Gooseberry Hill,$224,$374,$549
+123,Lesmurdie - Bickley - Carmel,$224,$324,$549
+124,Byford,$174,$374,$424
+125,Mundijong,$174,$274,$549
+126,Serpentine - Jarrahdale,$174,$124,$324
+127,Como,$199,$324,$549
+128,Manning - Waterford,$74,$549,$549
+129,South Perth - Kensington,$224,$549,$549
+130,Banjup,$274,$549,$549
+131,Bibra Industrial,$74,$74,$74
+132,Bibra Lake,$74,$74,$74
+133,Coogee,$274,$424,$549
+134,Coolbellup,$74,$324,$374
+135,Hamilton Hill,$174,$324,$374
+136,Henderson,$74,$74,$74
+137,North Coogee,$74,$849,$549
+138,South Lake - Cockburn Central,$224,$374,$424
+139,Spearwood,$174,$324,$424
+140,Success - Hammond Park,$274,$424,$549
+141,Yangebup,$224,$374,$424
+142,Beeliar - Wattleup,$274,$424,$549
+143,Jandakot,$274,$549,$549
+144,East Fremantle,$224,$549,$549
+145,Fremantle,$74,$549,$549
+146,Fremantle - South,$74,$99,$549
+147,O'Connor (WA),$74,$74,$74
+148,Bertram - Wellard (West),$224,$374,$374
+149,Calista,$149,$274,$324
+150,Hope Valley - Postans,$174,$324,$274
+151,Kwinana Industrial,$74,$74,$74
+152,Parmelia - Orelia,$174,$274,$324
+153,Casuarina - Wandi,$74,$549,$424
+154,Applecross - Ardross,$224,$549,$549
+155,Bateman,$274,$549,$549
+156,Bicton - Palmyra,$224,$374,$549
+157,Booragoon,$224,$549,$549
+158,Bull Creek,$249,$549,$549
+159,Leeming,$224,$549,$549
+160,Melville,$224,$549,$549
+161,Murdoch - Kardinya,$224,$549,$549
+162,Willagee,$74,$99,$124
+163,Winthrop,$324,$549,$649
+164,Baldivis,$274,$374,$424
+165,Cooloongup,$174,$324,$324
+166,Port Kennedy,$224,$374,$374
+167,Rockingham,$149,$224,$274
+168,Rockingham Lakes,$74,$74,$74
+169,Safety Bay - Shoalwater,$174,$324,$324
+170,Singleton - Golden Bay - Secret Harbour,$274,$374,$424
+171,Waikiki,$174,$324,$374
+172,Warnbro,$199,$324,$374
