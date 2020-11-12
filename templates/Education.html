@@ -8,13 +8,13 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Gentrification Index : Changes in Education</title>
+  <title>Gentrification Index : Changes in Rent</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="css/simple-sidebar.css" rel="stylesheet">
+  <link href="static/css/simple-sidebar.css" rel="stylesheet">
 
   <script src="https://d3js.org/d3.v4.min.js"></script>
 
@@ -31,13 +31,12 @@
     <div class="bg-light border-right" id="sidebar-wrapper">
       <div class="sidebar-heading">Gentrification Index For Greater Perth </div>
       <div class="list-group list-group-flush">
-        <a href="index.html" class="list-group-item list-group-item-action bg-light">Overview</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Methodology</a>
+        <a href="Landing.html" class="list-group-item list-group-item-action bg-light">Overview</a>
+        <a href="Methodology.html" class="list-group-item list-group-item-action bg-light">Methodology</a>
         <a href="Rent.html" class="list-group-item list-group-item-action bg-light">Changes of Rent 2006-2016</a>
         <a href="Education.html" class="list-group-item list-group-item-action bg-light">Changes of Resident Education Level 2006-2016</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Changes of Household Size 2006-2016ts</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Changes of Resident Education Level 2006-2016</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Changes of Resident Education Level 2006-2016</a>
+        <a href="Household.html" class="list-group-item list-group-item-action bg-light">Changes of Household Size 2006-2016ts</a>
+        <a href="Income.html" class="list-group-item list-group-item-action bg-light">Changes of Income 2006-2016</a>
       </div>
     </div>
     <!-- /#sidebar-wrapper -->
@@ -82,16 +81,8 @@
       </div>
       <div class="container-fluid">
         <div class="row-fluid">
-          <div class="span12 height-css">
-               <div id="rent_map"></div> 
-           </div>
-           <div class="row-fluid">
-
-            <!-- Add 2 buttons -->
-            <button onclick="update('var1')">%change 2006-2011</button>
-            <button onclick="update('var2')">%change 2011-2016</button>
-            <button onclick="update('var3')">%change 2006-2016</button>
-            <div id="my_dataviz"></div>
+          <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><small><a href="//parkerwai.maps.arcgis.com/apps/Embed/index.html?webmap=e0d2f862eba048f79e074ad878c2a363&extent=115.1639,-32.5006,116.8723,-31.5248&home=true&zoom=true&scale=true&search=true&searchextent=true&details=true&legend=true&active_panel=legend&basemap_toggle=true&alt_basemap=topo&disable_scroll=false&theme=dark" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Edu" src="//parkerwai.maps.arcgis.com/apps/Embed/index.html?webmap=e0d2f862eba048f79e074ad878c2a363&extent=115.1639,-32.5006,116.8723,-31.5248&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&details=true&legend=true&active_panel=legend&basemap_toggle=true&alt_basemap=topo&disable_scroll=false&theme=dark"></iframe></div>
+            
 
          </div>
       </div>
@@ -107,8 +98,8 @@
   <!-- /#wrapper -->
 
   <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="static/vendor/jquery/jquery.min.js"></script>
+  <script src="static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 
   <!-- jQuery -->
@@ -121,10 +112,10 @@
   <!-- D3 JavaScript -->
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
   <!-- API key -->
-  <script type="text/javascript" src="js/config.js"></script>
+  <script type="text/javascript" src="static/js/config.js"></script>
   <!-- Our JavaScript -->
-  <script type="text/javascript" src="js/logic.js"></script>
-  <script type="text/javascript" src="js/Education.js"></script>
+  <script type="text/javascript" src="static/js/logic.js"></script>
+  <script type="text/javascript" src="static/js/Rent.js"></script>
 
 
  
