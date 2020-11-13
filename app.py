@@ -55,9 +55,9 @@ def Income():
 def Household():
     return render_template("Household.html")
 
-@app.route("/Methodology.html")
-def Methodology():
-    return render_template("Methodology.html")
+# @app.route("/Methodology.html")
+# def Methodology():
+#     return render_template("Methodology.html")
 
 @app.route("/Housing_predic.html")
 def Housing_predic():
