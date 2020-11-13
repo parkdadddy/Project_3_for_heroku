@@ -31,7 +31,12 @@ app.config['JSON_SORT_KEYS']= False
 @app.route("/")
 def index():
     """Return the homepage."""
-    return render_template("Landing.html")
+    return render_template("index.html")
+
+@app.route("/index.html")
+def homepage():
+    """Return the homepage."""
+    return render_template("index.html")
 
 
 @app.route("/Rent.html")
@@ -53,6 +58,10 @@ def Household():
 @app.route("/Methodology.html")
 def Methodology():
     return render_template("Methodology.html")
+
+@app.route("/Housing_predic.html")
+def Housing_predic():
+    return render_template("Housing_predic.html")
 
 
 if __name__ == "__main__":
